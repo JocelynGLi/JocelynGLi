@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+**Jingge (Jocelyn) Li**
+
+I have finished my undergraduate study majored in Geographic Information Science at East China Normal University.
+
+Now I am pursuing my master's degree in Artificial Intelligence Engineering - Engineering & Technology Innovation Management at Carnegie Mellon University.
 
 <!--
 **JocelynGLi/JocelynGLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
